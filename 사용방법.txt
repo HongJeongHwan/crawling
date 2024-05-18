@@ -1,0 +1,7 @@
+1. anaconda st_colab 가상환경으로 들어가기
+
+2. pip install selenium
+
+3. pip install webdriver-manager
+   : https://pypi.org/project/webdriver-manager/ 참고
+
